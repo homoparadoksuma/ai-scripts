@@ -53,7 +53,7 @@ Apply selected styles to multiple objects and save new document per each style.
 
 How to:
 1. Create multiple objects you want to apply selected styles to. Save each object as a separate EPS file
-2. Create template  - EPS file with prepared graphic styles. Artboard might be empty or with background locked.
+2. Create template  - AI file with prepared graphic styles. Artboard might be empty or with background locked.
 3. Open template file
 4. Run script from Adobe Illustrator: File => Scripts => Apply-style или File => Scripts => Other Script…
 5. Specify Source Directory - folder containing EPS files with prepared objects
